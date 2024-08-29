@@ -1,0 +1,4 @@
+﻿  4날 1번째.c
+C:\Users\ryan2\source\repos\여름합숙 4\4날 1번째.c(67,1): warning C4715: 'peek': 모든 제어 경로에서 값을 반환하지는 않습니다.
+C:\Users\ryan2\source\repos\여름합숙 4\4날 1번째.c(56,1): warning C4715: 'dequeue': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  여름합숙 4.vcxproj -> C:\Users\ryan2\source\repos\여름합숙\x64\Debug\여름합숙 4.exe
