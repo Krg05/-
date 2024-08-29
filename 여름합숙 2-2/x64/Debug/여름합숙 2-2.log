@@ -1,0 +1,7 @@
+﻿  2날 2번째.c
+C:\Users\ryan2\source\repos\여름합숙 2-2\2날 2번째.c(13,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ryan2\source\repos\여름합숙 2-2\2날 2번째.c(18,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ryan2\source\repos\여름합숙 2-2\2날 2번째.c(54,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ryan2\source\repos\여름합숙 2-2\2날 2번째.c(61,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ryan2\source\repos\여름합숙 2-2\2날 2번째.c(10,9): warning C4101: 'pocket' :참조되지 않은 지역 변수입니다.
+  여름합숙 2-2.vcxproj -> C:\Users\ryan2\source\repos\여름합숙\x64\Debug\여름합숙 2-2.exe
